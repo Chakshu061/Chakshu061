@@ -11,5 +11,5 @@
  
  <h3 align="left">📈 My GitHub stats</h3>
 
-<a align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Chakshu061&show_icons=true&theme=gotham" alt="Chakshu061" /><a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakshu061&show_icons=true&theme=gotham" alt="Chakshu061" /></a>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Chakshu061&show_icons=true&theme=gotham" alt="Chakshu061" /><p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakshu061&show_icons=true&theme=gotham" alt="Chakshu061" /></p>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chakshu061&theme=gotham)
