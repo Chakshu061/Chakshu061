@@ -50,7 +50,8 @@
  
  <h2 align="left">📈 My GitHub stats: </h2>
 
-<a> <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakshu061&show_icons=true&theme=gotham" alt="Chakshu061" /></a> <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chakshu061&theme=gotham)
+<!--<a><img src="https://github-readme-stats.vercel.app/api?username=Chakshu061&show_icons=true&theme=gotham" alt="Chakshu061" /> -->
+<a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakshu061&show_icons=true&theme=gotham" alt="Chakshu061" /></a> <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chakshu061&theme=gotham)
 <hr>
  
 
